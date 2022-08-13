@@ -1,24 +1,32 @@
-# Awesome-Illustrations-4Projects
-`You can visit the link by clicking on the image`
-
+# Awesome-Illustrations-4Projects <img src="https://user-images.githubusercontent.com/74038190/184504164-d28f6476-e68b-48c5-996f-84c6f7423c13.png" width="50px" />
+> A curated list of Illustrations for your Project.
+> <br>
 
 ## Menu
 - ILLUSTRATIONS
 
-  - [✔️ Free](#-free)
+  - [✔️ Free](#-free) 
   
-    - [Inspiration](#inspiration-)
-    - [Prototipy](#prototipy-)
-    - [Icon](#icon-)
-    - [Color](#color-)
+    - Casual Life 3D
+    - Skribbl
+    - Skribbl
+    - Notion-Style
+    - Daily 50
 
   - [💰 Paid](#-paid)
     
-    - [Inspiration](#inspiration-)
-    - [Prototipy](#prototipy-)
-    - [Icon](#icon-)
-    - [Color](#color-)
+    - Casual Life 3D
+    - Skribbl
+    - Skribbl
+    - Notion-Style
+    - Daily 50
     
+<br>
+
+---
+
+<br>
+
  ## ✔️ Free [🔝](#menu)
 
 |Showcase | Description |
