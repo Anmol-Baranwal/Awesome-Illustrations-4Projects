@@ -1,6 +1,12 @@
 # Awesome Illustrations 4 Projects <img src="https://user-images.githubusercontent.com/74038190/184504164-d28f6476-e68b-48c5-996f-84c6f7423c13.png" width="50px" />
 Improve your projects using these awesome illustrations. See a sample <a href="https://david-hckh.com/" target="_blank">here</a>
 
+## How are these organised?
+
+1. Free- The illustrations can be used for personal and commercial projects with/without attribution.
+2. Premium- The illustrations cannot be used without buying.
+3. Freemium- Some illlustrations are ready to use but need premium to unlock full set of illustration.
+4. Group- Multiple packs of illustration can be accessed with one premium service.
 
 ## Menu
 - [Welcome](#welcome)
