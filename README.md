@@ -94,8 +94,8 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
     - Isometric Love
     - Absurd	
     
-- [How to Contribute](#how-to-contribute-)   
-- [Contributors](#contributors-)
+- [How to Contribute](#-how-to-contribute-)   
+- [Contributors](#-contributors-)
 
 <br>
 
