@@ -192,7 +192,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 
 ---
 
-## How to Contribute?
+## ✏ How to Contribute? [🔝](#awesome-illustrations-4-projects-)
 1. Make a fork of this repository.
 2. If you want to add a illustration-
    - See in which category the illustration fits in
@@ -206,7 +206,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 
 ---
 
-## Contributors
+## 🔥 Contributors [🔝](#awesome-illustrations-4-projects-)
 
 
 <table>
