@@ -3,10 +3,10 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 
 ## How are these organised?
 
-1. **Free**- &nbsp;&nbsp;The illustrations can be used for personal and commercial projects with/without attribution.
-2. **Premium**- &nbsp;&nbsp;The illustrations cannot be used without buying.
-3. **Freemium**- &nbsp;&nbsp;Some illlustrations are ready to use but need premium to unlock full set of illustration.
-4. **Group**- &nbsp;&nbsp;Multiple packs of illustration can be accessed with one premium service.
+1. **Free** - &nbsp;The illustrations can be used for personal and commercial projects with/without attribution.
+2. **Premium** - &nbsp;The illustrations cannot be used without buying.
+3. **Freemium** - &nbsp;Some illlustrations are ready to use but need premium to unlock full set of illustration.
+4. **Group** - &nbsp;Multiple packs of illustration can be accessed with one premium service.
 
 ## Menu
 - [Welcome](#welcome)
@@ -94,8 +94,8 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
     - Isometric Love
     - Absurd	
     
-- [How to Contribute](#how-to-contribute-)   
-- [Contributors](#contributors-)
+- [How to Contribute](#how-to-contribute)   
+- [Contributors](#contributors)
 
 <br>
 
@@ -189,6 +189,20 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 | <a href="https://www.abstrakt.design/"><img width='700' src='https://user-images.githubusercontent.com/74038190/184918914-a5d2eaa0-3851-43af-9f4a-093ac07278a8.png' alt="Paper_paid_illustrations" /></a> | [Abstrakt](https://www.abstrakt.design/)  <br><br> ✔ Free <br><br>Format <br> • PNG<br> • SVG<br><br> ✌️Author <br> Abstrakt.design |
 | <a href="https://isometriclove.com/"><img width='700' src='https://user-images.githubusercontent.com/74038190/184918941-c337881b-fbf5-4eba-b5ca-53f450d54ea5.png' alt="Isometric_Love_paid_illustrations" /></a> | [Isometric Love](https://isometriclove.com/)  <br><br> ✔ Free <br><br>Format <br> • PNG<br><br> ✌️Author <br> Isometric Love |
 | <a href="https://absurd.design/"><img width='700' src='https://user-images.githubusercontent.com/74038190/184918936-b0f15be9-8004-4d6d-ac7d-f3be7725a001.png' alt="Absurd_paid_illustrations" /></a> | [Absurd](https://absurd.design/)  <br><br> ✔ Free <br><br>Format <br> • PNG<br><br> ✌️Author <br> Absurd.design |
+
+---
+
+## How to Contribute?
+1. Make a fork of this repository.
+2. If you want to add a illustration-
+   - See in which category the illustration fits in
+   - Extract Author & the formats of the illustration available
+   - Add the correct link of the illustration both in the title & image 
+   - Click a nice full screen photo of the page of the illustration (make sure best illustrations are showed in the picture)
+   - drag the screenshot in the readme and copy the link to the anchor URL
+   - Paste on category with `Alphabetical` order
+   - Commit the changes
+3. In case if you are contributing other than the illustrations then feel free to remove the pull request template.
 
 ---
 
