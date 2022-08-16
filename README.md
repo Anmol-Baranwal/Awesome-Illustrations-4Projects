@@ -1,9 +1,11 @@
-# Awesome-Illustrations-4Projects <img src="https://user-images.githubusercontent.com/74038190/184504164-d28f6476-e68b-48c5-996f-84c6f7423c13.png" width="50px" />
-> A curated list of Illustrations for your Project.
-> <br>
+# Awesome Illustrations 4 Projects <img src="https://user-images.githubusercontent.com/74038190/184504164-d28f6476-e68b-48c5-996f-84c6f7423c13.png" width="50px" />
+Improve your projects using these awesome illustrations. See a sample <a href="https://david-hckh.com/" target="_blank">here</a>
+
 
 ## Menu
-- ILLUSTRATIONS
+- [Welcome](#welcome)
+- [How are these organised](#how-are-these-organised)
+- [Illustrations](#illustrations)
 
   - [✔️ Free](#-free) 
   
@@ -86,13 +88,16 @@
     - Isometric Love
     - Absurd	
     
+- [How to Contribute](#how-to-contribute-)   
+- [Creator](#creators-)
+
 <br>
 
 ---
 
 <br>
 
- ## ✔️ Free [🔝](#menu)
+ ## ✔️ Free [🔝](#awesome-illustrations-4-projects-)
 
 |Showcase | Description |
 | ------- | ----------- |
@@ -166,7 +171,7 @@
 | <a href="https://lukaszadam.com/illustrations"><img width='700' src='https://user-images.githubusercontent.com/74038190/184917833-5f31c70d-3d69-41ba-bd7e-c58257d409ef.png' alt="Lukaszadam_free_illustrations" /></a> | [Lukaszadam](https://lukaszadam.com/illustrations)  <br><br> ✔ Free <br><br>Format <br> • SVG<br>• PNG<br><br> ✌️Author <br> Lukaszadam |
 | <a href="https://craftwork.gumroad.com/l/ZWiR"><img width='700' src='https://user-images.githubusercontent.com/74038190/184810212-6b2ee06f-81a7-413c-b967-a899e9b7b56c.png' alt="Control_free_illustrations" /></a> | [Control](https://craftwork.gumroad.com/l/ZWiR)  <br><br> ✔ Free <br><br>Format <br>• PNG<br><br> ✌️Author <br> Craftwork.design |
 
- ## 💰 Paid [🔝](#menu)
+ ## 💰 Paid [🔝](#awesome-illustrations-4-projects-)
 
 
 |Showcase | Description |
