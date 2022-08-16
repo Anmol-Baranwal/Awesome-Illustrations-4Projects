@@ -94,8 +94,8 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
     - Isometric Love
     - Absurd	
     
-- [How to Contribute](#how-to-contribute)   
-- [Contributors](#contributors)
+- [How to Contribute](#how-to-contribute-)   
+- [Contributors](#contributors-)
 
 <br>
 
@@ -190,16 +190,19 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 | <a href="https://isometriclove.com/"><img width='700' src='https://user-images.githubusercontent.com/74038190/184918941-c337881b-fbf5-4eba-b5ca-53f450d54ea5.png' alt="Isometric_Love_paid_illustrations" /></a> | [Isometric Love](https://isometriclove.com/)  <br><br> ✔ Free <br><br>Format <br> • PNG<br><br> ✌️Author <br> Isometric Love |
 | <a href="https://absurd.design/"><img width='700' src='https://user-images.githubusercontent.com/74038190/184918936-b0f15be9-8004-4d6d-ac7d-f3be7725a001.png' alt="Absurd_paid_illustrations" /></a> | [Absurd](https://absurd.design/)  <br><br> ✔ Free <br><br>Format <br> • PNG<br><br> ✌️Author <br> Absurd.design |
 
----
-
 ## ✏ How to Contribute? [🔝](#awesome-illustrations-4-projects-)
 1. Make a fork of this repository.
 2. If you want to add a illustration-
-   - See in which category the illustration fits in
-   - Extract Author & the formats of the illustration available
-   - Add the correct link of the illustration both in the title & image 
+   ```
+   | <a href="link_of_the_illustration"><img width='700' src='screenshot_link' alt="make_this_appropriate" /></a> | [Title_of_the_Illustration](link_of_the_illustration)  <br><br> ✔ Free  <br><br>Format <br> • type_formats_with_break_in_between<br><br> ✌️Author <br> author_of_the_illustration |
+   ```
+   - See in which category the illustration fits in, change `free/paid` accordingly
+   - Extract Author & the formats of the illustration you wish to add
+   - Add the correct link of the illustration at `link_of_the_illustration`
    - Click a nice full screen photo of the page of the illustration (make sure best illustrations are showed in the picture)
-   - drag the screenshot in the readme and copy the link to the anchor URL
+   - drag the screenshot in the readme and copy the link to the `screenshot_link`
+   - Choose a appropriate title at `Title_of_the_Illustration`
+   - Write author at `author_of_the_illustration`
    - Paste on category with `Alphabetical` order
    - Commit the changes
 3. In case if you are contributing other than the illustrations then feel free to remove the pull request template.
