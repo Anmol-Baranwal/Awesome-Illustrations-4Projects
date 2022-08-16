@@ -3,17 +3,17 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 
 ## How are these organised?
 
-1. Free- The illustrations can be used for personal and commercial projects with/without attribution.
-2. Premium- The illustrations cannot be used without buying.
-3. Freemium- Some illlustrations are ready to use but need premium to unlock full set of illustration.
-4. Group- Multiple packs of illustration can be accessed with one premium service.
+1. **Free**- &nbsp;&nbsp;The illustrations can be used for personal and commercial projects with/without attribution.
+2. **Premium**- &nbsp;&nbsp;The illustrations cannot be used without buying.
+3. **Freemium**- &nbsp;&nbsp;Some illlustrations are ready to use but need premium to unlock full set of illustration.
+4. **Group**- &nbsp;&nbsp;Multiple packs of illustration can be accessed with one premium service.
 
 ## Menu
 - [Welcome](#welcome)
 - [How are these organised](#how-are-these-organised)
 - [Illustrations](#illustrations)
 
-  - [✔️ Free](#-free) 
+  - [✔️ Free](#%EF%B8%8F-free-) 
   
     - Casual Life 3D
     - Skribbl
@@ -84,7 +84,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
     - Lukaszadam
     - Control						
 
-  - [💰 Paid](#-paid)
+  - [💰 Paid](#-paid-)
     
     - Pixeltrue
     - Skribbl
@@ -95,7 +95,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
     - Absurd	
     
 - [How to Contribute](#how-to-contribute-)   
-- [Creator](#creators-)
+- [Contributors](#contributors-)
 
 <br>
 
@@ -190,9 +190,24 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 | <a href="https://isometriclove.com/"><img width='700' src='https://user-images.githubusercontent.com/74038190/184918941-c337881b-fbf5-4eba-b5ca-53f450d54ea5.png' alt="Isometric_Love_paid_illustrations" /></a> | [Isometric Love](https://isometriclove.com/)  <br><br> ✔ Free <br><br>Format <br> • PNG<br><br> ✌️Author <br> Isometric Love |
 | <a href="https://absurd.design/"><img width='700' src='https://user-images.githubusercontent.com/74038190/184918936-b0f15be9-8004-4d6d-ac7d-f3be7725a001.png' alt="Absurd_paid_illustrations" /></a> | [Absurd](https://absurd.design/)  <br><br> ✔ Free <br><br>Format <br> • PNG<br><br> ✌️Author <br> Absurd.design |
 
+---
+
+## Contributors
 
 
+<table>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/Anmol-Baranwal>
+            <img src=https://avatars.githubusercontent.com/u/74038190?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Anmol Baranwal/>
+            <br />
+            <sub style="font-size:14px"><b>Anmol Baranwal</b></sub>
+        </a>
+    </td>
+</tr>
+</table>
 
+**Important:** For Every two months the Contributors list will be updated by observing the contributions.
 
 
 
