@@ -7,11 +7,11 @@ Please ensure your pull request adheres to the following guidelines:
 - The illustration should be in the relevant category.
 - Any changes or suggestions to the existing content or repository is welcomed
 
-You don't need to worry as I will request the changes if there is needed in the pull request before merging.
+You don't need to worry as I will request the changes needed in the pull request before merging.
 
 ## Guideline to Add Illustration
 
-Make sure to see the [Pull Request Template]() for your ease.
+Make sure to see the [Pull Request Template](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/blob/main/PULL_REQUEST_TEMPLATE.md) for your ease.
 
 To add an illustrations, you can read the detailed instructions [here](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects#-how-to-contribute-)
 
