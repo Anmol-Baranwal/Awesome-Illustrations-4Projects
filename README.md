@@ -191,8 +191,9 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 | <a href="https://absurd.design/"><img width='700' src='https://user-images.githubusercontent.com/74038190/184918936-b0f15be9-8004-4d6d-ac7d-f3be7725a001.png' alt="Absurd_paid_illustrations" /></a> | [Absurd](https://absurd.design/)  <br><br> ✔ Free <br><br>Format <br> • PNG<br><br> ✌️Author <br> Absurd.design |
 
 ## ✏ How to Contribute? [🔝](#awesome-illustrations-4-projects-)
-1. Make a fork of this repository.
-2. If you want to add a illustration-
+1. Please take a quick look at the [contributing guidelines](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/edit/main/CONTRIBUTING.md) first.
+2. Make a fork of this repository.
+3. If you want to add a illustration-
    ```
    | <a href="link_of_the_illustration"><img width='700' src='screenshot_link' alt="make_this_appropriate" /></a> | [Title_of_the_Illustration](link_of_the_illustration)  <br><br> ✔ Free  <br><br>Format <br> • type_formats_with_break_in_between<br><br> ✌️Author <br> author_of_the_illustration |
    ```
@@ -205,7 +206,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
    - Write author at `author_of_the_illustration`
    - Paste on category with `Alphabetical` order
    - Commit the changes
-3. In case if you are contributing other than the illustrations then feel free to remove the pull request template.
+4. In case if you are contributing other than the illustrations then feel free to remove the pull request template.
 
 ---
 
