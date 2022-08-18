@@ -3,14 +3,15 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 
 ## How are these organised?
 
-1. **Free** - &nbsp;The illustrations can be used for personal and commercial projects with/without attribution.
-2. **Premium** - &nbsp;The illustrations cannot be used without buying.
+1. **Free** - &nbsp;These illustrations are allowed to use for personal and commercial projects with/without attribution.
+2. **Premium** - &nbsp;These illustrations cannot be used without buying.
 3. **Freemium** - &nbsp;Some illlustrations are ready to use but need premium to unlock full set of illustration.
 4. **Group** - &nbsp;Multiple packs of illustration can be accessed with one premium service.
 
-## Menu
+# [Menu](#menu)
 - [Welcome](#welcome)
 - [How are these organised](#how-are-these-organised)
+- [How to Contribute](#-how-to-contribute-) 
 - [Illustrations](#illustrations)
 
   - [✔️ Free](#%EF%B8%8F-free-) 
@@ -93,8 +94,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
     - Abstrakt
     - Isometric Love
     - Absurd	
-    
-- [How to Contribute](#-how-to-contribute-)   
+      
 - [Contributors](#-contributors-)
 
 <br>
@@ -206,7 +206,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
    - Write author at `author_of_the_illustration`
    - Paste on category with `Alphabetical` order
    - Commit the changes
-4. In case if you are contributing other than the illustrations then feel free to remove the pull request template.
+4. In case if you are contributing other than the illustrations, feel free to remove the pull request template.
 
 ---
 
