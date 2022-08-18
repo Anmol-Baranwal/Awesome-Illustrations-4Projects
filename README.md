@@ -195,7 +195,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 | <a href="https://absurd.design/"><img width='700' src='https://user-images.githubusercontent.com/74038190/184918936-b0f15be9-8004-4d6d-ac7d-f3be7725a001.png' alt="Absurd_paid_illustrations" /></a> | [Absurd](https://absurd.design/)  <br><br> ✔ Free <br><br>Format <br> • PNG<br><br> ✌️Author <br> Absurd.design |
 
 ## ✏ How to Contribute? [🔝](#awesome-illustrations-4-projects-)
-1. Please take a quick look at the [contributing guidelines](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/edit/main/CONTRIBUTING.md) first.
+1. Please take a quick look at the [contributing guidelines](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/blob/main/CONTRIBUTING.md) first.
 2. Make a fork of this repository.
 3. If you want to add a illustration-
    ```
