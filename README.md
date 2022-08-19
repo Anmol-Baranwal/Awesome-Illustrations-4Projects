@@ -8,7 +8,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 ## How are these organised?
 
 1. **Free** - &nbsp;These illustrations are allowed to use for personal and commercial projects with/without attribution.
-2. **Premium** - &nbsp;These illustrations cannot be used without buying.
+2. **Paid** - &nbsp;These illustrations cannot be used without buying.
 3. **Freemium** - &nbsp;Some illlustrations are ready to use but need premium to unlock full set of illustration.
 4. **Group** - &nbsp;Multiple packs of illustration can be accessed with one premium service.
 
@@ -21,6 +21,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
   - [✔️ Free](#%EF%B8%8F-free-) 
   
     - [1440+ 3D Icons](https://3dicons.co/)
+    - [3D App Icons](https://www.getillustrations.com/illustration-pack/download-free-3d-app-icons-for-iphone)
     - [3D Cartoon Hands](https://www.figma.com/community/file/990218169140929445)
     - [404 Illustrations](https://www.kapwing.com/404-illustrations)
     - [Avatars](https://drive.google.com/file/d/12Z8zKV9Brj360uvquTYkF_TC9WQjbV6A/view)
@@ -62,6 +63,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
     - [People Working](https://drawkit.com/product/people-working-collaborating-illustrations)
     - [Phonies](https://growwwkit.com/illustrations/phonies/)
     - [Porto](https://www.kapustin.co/product/porto)
+    - [Product Hunt](https://www.getillustrations.com/illustration-pack/product-hunt-illustrations-free-cat-stickers)
     - [Pulse](https://sleekbundle.com/product/pulse-illustration-kit/)
     - [Remote Work](https://oblikstudio.gumroad.com/l/remote-work-illustrations-by-oblik-studio)
     - [Saly 3D](https://www.figma.com/community/file/890095002328610853)
@@ -122,6 +124,8 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 | <a href="https://maryamato88.gumroad.com/l/pbmkt"><img width='700' src='https://user-images.githubusercontent.com/74038190/184478348-653d118b-8797-4566-9a68-cb1fb981b1eb.png' alt="Notion_Style_free_illustrations" /></a> | [Notion-Style](https://maryamato88.gumroad.com/l/pbmkt)  <br><br> ✔ Free <br><br>Format <br> • SVG<br>• PNG<br><br> ✌️Author <br>Mary Amato |
 | <a href="https://www.getillustrations.com/illustration-pack/download-free-daily-illustrations"><img width='700' src='https://user-images.githubusercontent.com/74038190/184478648-65d44155-3b84-482d-adde-9878ae1efdfa.png' alt="Daily 50_free_getillustrations" /></a> | [Daily 50](https://www.getillustrations.com/illustration-pack/download-free-daily-illustrations)  <br><br> ✔ Free <br><br>Format <br> • Adobe XD<br>• Figma<br>• Illustrator<br>• Sketch<br><br> ✌️Author <br>Getillustrations |
 | <a href="https://christmas.wannathis.one/"><img width='700' src='https://user-images.githubusercontent.com/74038190/184478914-e0edf39e-aee6-46c9-a953-00749d471cc5.png' alt="Christmas 3D_free_illustrations" /></a> | [Christmas 3D](https://christmas.wannathis.one/)  <br><br> ✔ Free <br><br>Format <br>• PNG<br><br> ✌️Author <br>Wannathis |
+| <a href="https://www.getillustrations.com/illustration-pack/product-hunt-illustrations-free-cat-stickers"><img width='700' src='https://user-images.githubusercontent.com/74038190/185657863-a9b730e5-f2cd-41eb-933a-9693d187b761.png' alt="Product_Hunt_free_illustrations" /></a> | [Product Hunt](https://www.getillustrations.com/illustration-pack/product-hunt-illustrations-free-cat-stickers)  <br><br> ✔ Free <br><br>Format <br> • Figma<br>• Sketch<br>• Adobe XD<br>• PNG<br>• SVG<br><br> ✌️Author <br> Getillustrations |
+| <a href="https://www.getillustrations.com/illustration-pack/download-free-3d-app-icons-for-iphone"><img width='700' src='https://user-images.githubusercontent.com/74038190/185657874-f860163d-591e-4f3c-8dde-156079585867.png' alt="3D_App_Icons_free_illustrations" /></a> | [3D App Icons](https://www.getillustrations.com/illustration-pack/download-free-3d-app-icons-for-iphone)  <br><br> ✔ Free <br><br>Format <br> • Figma<br>• Sketch<br>• Adobe XD<br>• PNG<br><br> ✌️Author <br> Getillustrations |
 | <a href="https://halloween.wannathis.one/"><img width='700' src='https://user-images.githubusercontent.com/74038190/184506454-f4e5bd3a-8386-46f3-9690-eae12bc77f30.png' alt="Halloween_3D_free_illustrations" /></a> | [Halloween 3D](https://halloween.wannathis.one/)  <br><br> ✔ Free <br><br>Format <br> • Figma<br>• PNG<br><br> ✌️Author <br>Wannathis |
 | <a href="https://3dicons.co/"><img width='700' src='https://user-images.githubusercontent.com/74038190/184506471-a9988431-33c2-4e7f-9162-336305a651e0.png' alt="3D_Icons_free" /></a> | [1440+ 3D Icons](https://3dicons.co/)  <br><br> ✔ Free <br><br>Format <br> • Figma<br>• Sketch<br>• Adobe XD<br>• PNG<br>• PSD<br>• InVision Studio<br><br> ✌️Author <br> vijay verma |
 | <a href="https://www.getillustrations.com/illustration-pack/zanzi-free-illustrations-for-websites"><img width='700' src='https://user-images.githubusercontent.com/74038190/184506473-d0bcf74b-0b53-48c5-989f-8ce3cbaf55f3.png' alt="Zanzi_free_illustrations" /></a> | [Zanzi](https://www.getillustrations.com/illustration-pack/zanzi-free-illustrations-for-websites)  <br><br> ✔ Free <br><br>Format <br> • Figma<br>• Sketch<br>• Adobe XD<br>• PNG<br>• SVG<br>• AI<br><br> ✌️Author <br> Getillustrations |
