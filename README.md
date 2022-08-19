@@ -101,7 +101,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
     
   - [🎨 Group](#-group-)
     - [Black Illustrations](https://www.blackillustrations.com/)
-    - [Getillustrations](\https://www.getillustrations.com/illustration-packs)
+    - [Getillustrations](https://www.getillustrations.com/illustration-packs)
     - [Pixeltrue](https://www.pixeltrue.com/packs)
       
 - [Contributors](#-contributors-)
@@ -195,8 +195,8 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 
 |Showcase | Description |
 | ------- | ----------- |
-| <a href="https://www.pixeltrue.com/packs"><img width='700' src='https://user-images.githubusercontent.com/74038190/184471162-d1bdaee1-5fdf-4b05-bdfc-373f00cfa661.png' alt="pixeltrue compacks_paid" /></a> | [Pixeltrue](https://www.pixeltrue.com/packs)  <br><br> 💰 Paid <br><br>Format: <br> • Figma<br><br> Author <br> |
-| <a href="https://weareskribbl.com/"><img width='700' src='https://user-images.githubusercontent.com/74038190/184471500-eea160f2-3faa-4ee0-b453-63c922825862.png' alt="skribbl_paid_illustrations" /></a> | [Skribbl](https://weareskribbl.com/)  </br></br> 💰 Paid <br><br>Format: <br> • Figma<br><br> Author <br> |
+| <a href="https://www.pixeltrue.com/packs"><img width='700' src='https://user-images.githubusercontent.com/74038190/184471162-d1bdaee1-5fdf-4b05-bdfc-373f00cfa661.png' alt="pixeltrue compacks_paid" /></a> | [Pixeltrue](https://www.pixeltrue.com/packs)  <br><br> 💰 Paid <br><br>Format: <br> • Figma<br><br>  |
+| <a href="https://weareskribbl.com/"><img width='700' src='https://user-images.githubusercontent.com/74038190/184471500-eea160f2-3faa-4ee0-b453-63c922825862.png' alt="skribbl_paid_illustrations" /></a> | [Skribbl](https://weareskribbl.com/)  </br></br> 💰 Paid <br><br>Format: <br> • Figma<br><br>  |
 | <a href="https://www.ls.graphics/illustrations/pof-pof"><img width='700' src='https://user-images.githubusercontent.com/74038190/184863554-c0eef9aa-022a-433d-af05-c1281aa15a89.png' alt="Pof-Pof_paid_illustrations" /></a> | [Pof-Pof](https://www.ls.graphics/illustrations/pof-pof)  <br><br> 💰 Paid <br><br>Format <br> • Figma<br>• Sketch<br>• Adobe XD<br>• SVG<br>• AI<br><br> ✌️Author <br> ls.graphics |
 | <a href="https://www.ls.graphics/illustrations/whoosh"><img width='700' src='https://user-images.githubusercontent.com/74038190/184864391-7642a6f3-7698-4390-a135-bc5793953c83.png' alt="Whoosh_paid_illustrations" /></a> | [Whoosh](https://www.ls.graphics/illustrations/whoosh)  <br><br> 💰 Paid <br><br>Format <br> • Figma<br>• Sketch<br>• Adobe XD<br>• SVG<br>• AI<br><br> ✌️Author <br> ls.graphics |
 | <a href="https://isometriclove.com/"><img width='700' src='https://user-images.githubusercontent.com/74038190/184918941-c337881b-fbf5-4eba-b5ca-53f450d54ea5.png' alt="Isometric_Love_paid_illustrations" /></a> | [Isometric Love](https://isometriclove.com/)  <br><br> 💰 Paid <br><br>Format <br> • PNG<br><br> ✌️Author <br> Isometric Love |
@@ -207,7 +207,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 
 |Showcase | Description |
 | ------- | ----------- |
-| <a href="https://www.blackillustrations.com/"><img width='700' src='https://user-images.githubusercontent.com/74038190/184809665-96404f62-a242-401d-983a-2612b64aa338.png' alt="Black_illustrations_group" /></a> | [Black Illustrations](https://www.blackillustrations.com/)  <br><br> 🎨 Group <br><br>Format <br> • Figma<br>• Sketch<br>• Adobe XD<br>• PSD<br>• AI<br><br> ✌️Author <br> Getillustrations |
+| <a href="https://www.blackillustrations.com/"><img width='700' src='https://user-images.githubusercontent.com/74038190/184809665-96404f62-a242-401d-983a-2612b64aa338.png' alt="Black_illustrations_group" /></a> | [Black Illustrations](https://www.blackillustrations.com/)  <br><br> 🎨 Group <br><br>Format <br> • Figma<br>• Sketch<br>• Adobe XD<br>• PSD<br>• AI<br><br> ✌️Author <br> Black Illustrations |
 | <a href="https://www.getillustrations.com/illustration-packs"><img width='700' src='https://user-images.githubusercontent.com/74038190/184643324-bb155fb8-1b59-41e4-828d-3512f02b667a.png' alt="Get_illustrations_group" /></a> | [Getillustrations](https://www.getillustrations.com/illustration-packs)  <br><br> 🎨 Group <br><br>Format <br> • Figma<br>• Sketch<br>• Adobe XD<br>• PNG<br>• SVG<br>• AI<br><br> ✌️Author <br> Getillustrations |
 | <a href="https://www.pixeltrue.com/packs"><img width='700' src='https://user-images.githubusercontent.com/74038190/184809662-9014fd98-1351-4e50-ba17-c75d89cc50b3.png' alt="Pixeltrue_illustrations_group" /></a> | [Pixeltrue](https://www.pixeltrue.com/packs)  <br><br> ✔ Free <br><br>Format <br> • AI<br>• PNG<br>• SVG<br><br> ✌️Author <br> Pixeltrue |
 
@@ -227,7 +227,8 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
    - Choose a appropriate title at `Title_of_the_Illustration`
    - Write author at `author_of_the_illustration`
    - Paste on category with `Alphabetical` order
-   - Commit the changes
+   - See examples in the section if you are confused
+   - Commit the changes and make a pull request
 4. In case if you are contributing other than the illustrations, feel free to remove the pull request template.
 
 ---
@@ -247,7 +248,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 </tr>
 </table>
 
-**Important:** For Every two months the Contributors list will be updated by observing the contributions.
+**Important:** In Every two months, this list will be updated by observing the contributions.
 
 
 
