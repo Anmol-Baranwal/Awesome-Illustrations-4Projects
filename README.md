@@ -20,84 +20,84 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 
   - [✔️ Free](#%EF%B8%8F-free-) 
   
-    - Casual Life 3D
-    - Skribbl
-    - Userpics
-    - Notion-Style
-    - Daily 50
-    - Christmas 3D
-    - Halloween 3D
-    - 1440+ 3D Icons
-    - Zanzi
-    - Merry Christmas
-    - Saly 3D
-    - Hitu
-    - Lucid
-    - Christmas
-    - Slam
-    - Surface 75
-    - Porto
-    - Bam 3D
-    - Blues
-    - On Fire
-    - Nikuu 3D
-    - Doodle Ipsum
-    - 3D Cartoon Hands
-    - Lifestyle
-    - People Working
-    - Sapiens Character
-    - Whoooa
-    - Loomies 39
-    - Handz 3D
-    - Big Heads
-    - Clak
-    - Blush
-    - Remote Work
-    - Sketchvalley
-    - Black
-    - Ghost
-    - Streamline HQ	
-    - Pixeltrue
-    - Open Peeps
-    - Many Pixels
-    - Valentine
-    - Pof-Pof
-    - Drawer Avatar
-    - Pulse
-    - Diversity Avatars
-    - Scribbles
-    - GEE! ME
-    - Illustrations.co
-    - Smash
-    - Open Doodles
-    - Whoosh
-    - Phonies
-    - Fresh Folk
-    - Paper
-    - Humaaans
-    - Delesign
-    - Glaze
-    - Abstrakt
-    - Charco
-    - unDraw
-    - Avatars
-    - IRA Design
-    - Mega Doodles Pack
-    - Stubborn
-    - 404 Illustrations
-    - Bottts Generator
-    - Lukaszadam
-    - Control						
+    - [1440+ 3D Icons](https://3dicons.co/)
+    - [3D Cartoon Hands](https://www.figma.com/community/file/990218169140929445)
+    - [404 Illustrations](https://www.kapwing.com/404-illustrations)
+    - [Abstrakt](https://www.abstrakt.design/)
+    - [Avatars](https://drive.google.com/file/d/12Z8zKV9Brj360uvquTYkF_TC9WQjbV6A/view)
+    - [Bam 3D](https://bamdesign.gumroad.com/l/bamillu)
+    - [Big Heads](https://bigheads.io/)
+    - [Black](https://www.blackillustrations.com/)
+    - [Blues](https://www.getillustrations.com/illustration-pack/blues-dual-tone-free-illustrations)
+    - [Blush](https://blush.design/)
+    - [Bottts Generator](https://www.botttsgenerator.com/)
+    - [Casual Life 3D](https://www.figma.com/community/file/1118811400396348161)
+    - [Charco](https://www.charco.design/charco)
+    - [Christmas](https://iconscout.com/illustration-pack/christmas-2333)
+    - [Christmas 3D](https://christmas.wannathis.one/)
+    - [Clak](https://www.ls.graphics/illustrations/clak)
+    - [Control](https://craftwork.gumroad.com/l/ZWiR)
+    - [Daily 50](https://www.getillustrations.com/illustration-pack/download-free-daily-illustrations)
+    - [Delesign](https://delesign.com/free-designs/graphics/)
+    - [Diversity Avatars](https://www.netguru.com/blog/inclusive-design-how-to-start)
+    - [Doodle Ipsum](https://doodleipsum.com/)
+    - [Drawer Avatar](https://drawer.design/products/avatar-library/)
+    - [Fresh Folk](https://fresh-folk.com/)
+    - [GEE! ME](https://geeme.vercel.app/)
+    - [Ghost](https://www.getillustrations.com/illustration-pack/ghost-illustrations-builder)
+    - [Glaze](https://www.glazestock.com/)
+    - [Halloween 3D](https://halloween.wannathis.one/)
+    - [Handz 3D](https://www.handz.design/)
+    - [Hitu](https://www.figma.com/community/file/882513090157409891)
+    - [Humaaans](https://www.humaaans.com/)
+    - [IRA Design](https://iradesign.io/)
+    - [Illustrations.co](https://illlustrations.co/)
+    - [Lifestyle](https://www.kapustin.co/product/lifestyle)
+    - [Loomies 39](https://www.getillustrations.com/illustration-pack/loomies-free-vector-illustrations)
+    - [Lucid](https://www.pixsellz.io/lucid-illustrations)
+    - [Lukaszadam](https://lukaszadam.com/illustrations)
+    - [Many Pixels](https://www.manypixels.co/gallery)
+    - [Mega Doodles Pack](https://github.com/MariaLetta/mega-doodles-pack/)
+    - [Merry Christmas](https://icons8.com/l/christmas-illustrations/)
+    - [Nikuu 3D](https://www.figma.com/community/file/1000311109311441524/Nikuu-3d-Illustration-Pack-by-Paperpillar)
+    - [Notion-Style](https://maryamato88.gumroad.com/l/pbmkt)
+    - [On Fire](https://onfire.craftwork.design/)
+    - [Open Doodles](https://www.opendoodles.com/)
+    - [Open Peeps](https://www.openpeeps.com/)
+    - [Paper](https://iconscout.com/paper-illustrations)
+    - [People Working](https://drawkit.com/product/people-working-collaborating-illustrations)
+    - [Phonies](https://growwwkit.com/illustrations/phonies/)
+    - [Pixeltrue](https://www.pixeltrue.com/packs)
+    - [Pof-Pof](https://www.ls.graphics/illustrations/pof-pof)
+    - [Porto](https://www.kapustin.co/product/porto)
+    - [Pulse](https://sleekbundle.com/product/pulse-illustration-kit/)
+    - [Remote Work](https://oblikstudio.gumroad.com/l/remote-work-illustrations-by-oblik-studio)
+    - [Saly 3D](https://www.figma.com/community/file/890095002328610853)
+    - [Sapiens Character](https://sapiens.ui8.net/6f5d3w2)
+    - [Scribbles](https://www.scribbbles.design/)
+    - [Sketchvalley](https://sketchvalley.com/)
+    - [Skribbl](https://weareskribbl.com)
+    - [Slam](https://craftwork.design/downloads/slam/)
+    - [Smash](https://usesmash.com/)
+    - [Streamline HQ](https://www.streamlinehq.com/illustrations/free-illustrations-bundle)
+    - [Stubborn](https://stubborn.fun/)
+    - [Surface 75](https://www.figma.com/community/file/883778082594341562)
+    - [UnDraw](https://undraw.co/illustrations)
+    - [Userpics](https://craftwork.design/downloads/userpics/)
+    - [Valentine](https://iconscout.com/illustration-pack/valentines-10)
+    - [Whoooa](https://gregdlubacz.gumroad.com/l/IbZHG)
+    - [Whoosh](https://www.ls.graphics/illustrations/whoosh)
+    - [Zanzi](https://www.getillustrations.com/illustration-pack/zanzi-free-illustrations-for-websites)						
 
   - [💰 Paid](#-paid-)
     
-    - Pixeltrue
-    - Skribbl
-    - Pof-Pof
-    - Whoosh
-    - Abstrakt
-    - Isometric Love
-    - Absurd	
+    - [Abstrakt]()
+    - [Absurd]() 
+    - [Isometric Love]()  
+    - [Pixeltrue]() 
+    - [Pof-Pof]()
+    - [Skribbl]()
+    - [Whoosh]()
       
 - [Contributors](#-contributors-)
 
