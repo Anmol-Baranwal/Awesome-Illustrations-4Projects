@@ -8,8 +8,8 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 ## How are these organised?
 
 1. **Free** - &nbsp;These illustrations are allowed to use for personal and commercial projects with/without attribution.
-2. **Paid** - &nbsp;These illustrations cannot be used without buying.
-3. **Freemium** - &nbsp;Some illlustrations are ready to use but need premium to unlock full set of illustration.
+2. **Freemium** - &nbsp;Some illlustrations are ready to use but need premium to unlock full set of illustration.
+3. **Paid** - &nbsp;These illustrations cannot be used without buying.
 4. **Group** - &nbsp;Multiple packs of illustration can be accessed with one premium service.
 
 # [Menu](#menu)
@@ -208,7 +208,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 
 
 ## ✏ How to Contribute? [🔝](#awesome-illustrations-4-projects-)
-1. Please take a quick look at the [contributing guidelines](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/blob/main/CONTRIBUTING.md) first.
+1. Contributions are welcome! Please take a quick look at the [contributing guidelines](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/blob/main/CONTRIBUTING.md) first.
 2. Make a fork of this repository.
 3. If you want to add a illustration-
    ```
@@ -217,9 +217,10 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
    - See in which category the illustration fits in, change `free/paid/freemium/group` accordingly
    - Extract Author & the formats of the illustration you wish to add
    - Add the correct link of the illustration at `link_of_the_illustration`
-   - Click a nice full screen photo of the page of the illustration (make sure best illustrations are showed in the picture)
-   - drag the screenshot in the readme and copy the link to the `screenshot_link`
+   - Click a nice full screen photo of the page of the illustration with least distractions (make sure best illustrations are showed in the picture)
+   - Drag the screenshot in the readme and copy the link to the `screenshot_link`
    - Choose a appropriate title at `Title_of_the_Illustration`
+   - Write the formats in which the asset is avalaible with breaks in between at `type_formats_with_break_in_between`
    - Write author at `author_of_the_illustration`
    - Paste on category with `Alphabetical` order
    - See examples in the section if you are confused
