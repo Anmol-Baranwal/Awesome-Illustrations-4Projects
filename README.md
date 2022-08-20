@@ -225,7 +225,9 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
    - Paste on category with `Alphabetical` order
    - See examples in the section if you are confused
    - Commit the changes and make a pull request
-4. In case if you are contributing other than the illustrations, feel free to remove the pull request template.
+5. In case if you are contributing other than the illustrations, feel free to remove the pull request template.
+
+**Important:** If you are looking to get started then check some of the existing illustration websites like craftwork, uistore, etc.
 
 ---
 
