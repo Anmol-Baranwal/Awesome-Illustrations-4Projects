@@ -214,13 +214,13 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
    ```
    | <a href="link_of_the_illustration"><img width='700' src='screenshot_link' alt="make_this_appropriate" /></a> | [Title_of_the_Illustration]  (link_of_the_illustration)  <br><br> ✔ Free  <br><br>Format <br> • type_formats_with_break_in_between<br><br> ✌️Author <br> author_of_the_illustration |
    ```
-   - See in which category the illustration fits in, change `free/paid/freemium/group` accordingly
-   - Extract Author & the formats of the illustration you wish to add
+   - See in which category the illustration fits in, and change `free/paid/freemium/group` accordingly
+   - Extract the Author & the formats of the illustration you wish to add
    - Add the correct link of the illustration at `link_of_the_illustration`
-   - Click a nice full screen photo of the page of the illustration with least distractions (make sure best illustrations are showed in the picture)
+   - Click a nice full-screen photo of the page of the illustration with the least distractions (make sure the best illustrations are shown in the picture)
    - Drag the screenshot in the readme and copy the link to the `screenshot_link`
-   - Choose a appropriate title at `Title_of_the_Illustration`
-   - Write the formats in which the asset is avalaible with breaks in between at `type_formats_with_break_in_between`
+   - Choose an appropriate title at `Title_of_the_Illustration`
+   - Write the formats in which the asset is availaible with breaks in between at `type_formats_with_break_in_between`
    - Write author at `author_of_the_illustration`
    - Paste on category with `Alphabetical` order
    - See examples in the section if you are confused
