@@ -71,7 +71,6 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
     - [Scribbles](https://www.scribbbles.design/)
     - [Sketchvalley](https://sketchvalley.com/)
     - [Slam](https://craftwork.design/downloads/slam/)
-    - [Smash](https://usesmash.com/)
     - [Streamline HQ](https://www.streamlinehq.com/illustrations/free-illustrations-bundle)
     - [Surface 75](https://www.figma.com/community/file/883778082594341562)
     - [UnDraw](https://undraw.co/illustrations)
@@ -87,6 +86,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
     - [Handz 3D](https://www.handz.design/)
     - [Merry Christmas](https://icons8.com/l/christmas-illustrations/)
     - [Pof-Pof](https://www.ls.graphics/illustrations/pof-pof)
+    - [Smash](https://usesmash.com/)
     - [Stubborn](https://stubborn.fun/)
     - [Whoosh](https://www.ls.graphics/illustrations/whoosh)
 
