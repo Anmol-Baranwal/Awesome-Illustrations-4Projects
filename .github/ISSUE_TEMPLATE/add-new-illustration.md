@@ -9,7 +9,7 @@ assignees: ''
 
 # Illustration Information
 
-{ Illustration_Name } | `Link_of_the_illustration`
+{ Illustration_Name } | `Link_of_the_Illustration` | `Category_of_the_Illustration`
 
 ## Optional Info
 
