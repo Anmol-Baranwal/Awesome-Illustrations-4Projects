@@ -1,5 +1,7 @@
 # Contributing Guidelines
 
+Please follow the [code of conduct](CODE_OF_CONDUCT.md) in all the interactions with your project and repository.
+
 ## Pull Request Guidelines
 
 Please ensure your pull request adheres to the following guidelines:
