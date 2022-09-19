@@ -109,6 +109,9 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 
 <br>
 
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
  ## ✔️ Free [🔝](#awesome-illustrations-4-projects-)
 
 |Showcase | Description |
@@ -173,6 +176,8 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 | <a href="https://gregdlubacz.gumroad.com/l/IbZHG"><img width='700' src='https://user-images.githubusercontent.com/74038190/184807808-cf22692c-b381-40c9-86d6-8d7deaae8b6f.png' alt="Whoooa_free_illustrations" /></a> | [Whoooa](https://gregdlubacz.gumroad.com/l/IbZHG)  <br><br> ✔ Free <br><br>Format <br> • Figma<br>• Sketch<br>• Adobe XD<br>• AI<br><br> ✌️Author <br> Greg Dlubacz |
 | <a href="https://www.getillustrations.com/illustration-pack/zanzi-free-illustrations-for-websites"><img width='700' src='https://user-images.githubusercontent.com/74038190/184506473-d0bcf74b-0b53-48c5-989f-8ce3cbaf55f3.png' alt="Zanzi_free_illustrations" /></a> | [Zanzi](https://www.getillustrations.com/illustration-pack/zanzi-free-illustrations-for-websites)  <br><br> ✔ Free <br><br>Format <br> • Figma<br>• Sketch<br>• Adobe XD<br>• PNG<br>• SVG<br>• AI<br><br> ✌️Author <br> Getillustrations |
 
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
  ## ✨ Freemium [🔝](#awesome-illustrations-4-projects-)
 
@@ -188,6 +193,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 | <a href="https://stubborn.fun/"><img width='700' src='https://user-images.githubusercontent.com/74038190/184917527-3f5dde24-889b-4d1b-a948-17d38e7476b9.png' alt="Stubborn_freemium_illustrations" /></a> | [Stubborn](https://stubborn.fun/)  <br><br> ✨ Freemium <br><br>Format <br> • Figma<br>• Sketch<br>• Adobe XD<br>• PNG<br>• SVG<br>• AI<br><br> ✌️Author <br> Getillustrations |
 | <a href="https://www.ls.graphics/illustrations/whoosh"><img width='700' src='https://user-images.githubusercontent.com/74038190/184864391-7642a6f3-7698-4390-a135-bc5793953c83.png' alt="Whoosh_freemium_illustrations" /></a> | [Whoosh](https://www.ls.graphics/illustrations/whoosh)  <br><br> ✨ Freemium <br><br>Format <br> • Figma<br>• Sketch<br>• Adobe XD<br>• SVG<br>• AI<br><br> ✌️Author <br> ls.graphics |
 
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
  ## 💰 Paid [🔝](#awesome-illustrations-4-projects-)
 
@@ -196,6 +202,8 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 | <a href="https://absurd.design/"><img width='700' src='https://user-images.githubusercontent.com/74038190/184918936-b0f15be9-8004-4d6d-ac7d-f3be7725a001.png' alt="Absurd_paid_illustrations" /></a> | [Absurd](https://absurd.design/)  <br><br> 💰 Paid <br><br>Format <br> • PNG<br><br> ✌️Author <br> Absurd.design |
 | <a href="https://isometriclove.com/"><img width='700' src='https://user-images.githubusercontent.com/74038190/184918941-c337881b-fbf5-4eba-b5ca-53f450d54ea5.png' alt="Isometric_Love_paid_illustrations" /></a> | [Isometric Love](https://isometriclove.com/)  <br><br> 💰 Paid <br><br>Format <br> • PNG<br><br> ✌️Author <br> Isometric Love |
 
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ## 🎨 Group [🔝](#awesome-illustrations-4-projects-)
 
@@ -206,6 +214,8 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 | <a href="https://www.pixeltrue.com/packs"><img width='700' src='https://user-images.githubusercontent.com/74038190/184809662-9014fd98-1351-4e50-ba17-c75d89cc50b3.png' alt="Pixeltrue_illustrations_group" /></a> | [Pixeltrue](https://www.pixeltrue.com/packs)  <br><br> ✔ Free <br><br>Format <br> • AI<br>• PNG<br>• SVG<br><br> ✌️Author <br> Pixeltrue |
 | <a href="https://weareskribbl.com/"><img width='700' src='https://user-images.githubusercontent.com/74038190/184471500-eea160f2-3faa-4ee0-b453-63c922825862.png' alt="skribbl_paid_illustrations" /></a> | [Skribbl](https://weareskribbl.com/)  </br></br> 💰 Paid <br><br>Format: <br> • PNG<br> • SVG<br><br>  |
 
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ## ✏ How to Contribute? [🔝](#awesome-illustrations-4-projects-)
 1. Contributions are welcome! Please take a quick look at the [contributing guidelines](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/blob/main/CONTRIBUTING.md) first.
