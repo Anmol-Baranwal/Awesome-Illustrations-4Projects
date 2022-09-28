@@ -244,20 +244,28 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 
 ## 🔥 Contributors [🔝](#awesome-illustrations-4-projects-)
 
+<!-- Special thanks to all the **contributors** -->
 
 <table>
 <tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/Anmol-Baranwal>
-            <img src=https://avatars.githubusercontent.com/u/74038190?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Anmol Baranwal/>
+            <img src="https://avatars.githubusercontent.com/u/74038190?v=4" width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Anmol Baranwal/>
             <br />
             <sub style="font-size:14px"><b>Anmol Baranwal</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/Sn4pe>
+            <img src="https://avatars.githubusercontent.com/u/36109048?v=4" width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Anmol Baranwal/>
+            <br />
+            <sub style="font-size:14px"><b>David</b></sub>
         </a>
     </td>
 </tr>
 </table>
 
-**Important:** In Every two months, this list will be updated by observing the contributions.
+<!-- **Important:** This list will be updated by observing the contributions in every three months. -->
 
 
 
