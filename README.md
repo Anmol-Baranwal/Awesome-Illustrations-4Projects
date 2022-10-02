@@ -96,6 +96,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
     - [Smash](https://usesmash.com/)
     - [Stubborn](https://stubborn.fun/)
     - [Whoosh](https://www.ls.graphics/illustrations/whoosh)
+    - [Yeeow!](https://www.ls.graphics/illustrations/yeeow)
 
   - [💰 Paid](#-paid-)
     
@@ -206,6 +207,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 | <a href="https://usesmash.com/"><img width='700' src='https://user-images.githubusercontent.com/74038190/190926129-89598235-c80e-4cf1-84c8-51cfcd06dafc.png' alt="Smash_free_illustrations" /></a> | [Smash](https://usesmash.com/)  <br><br> ✔ Free <br><br>Format <br> • Figma<br>• Sketch<br>• Adobe XD<br>• SVG<br>• AI <br><br>                                                                                                                           |
 | <a href="https://stubborn.fun/"><img width='700' src='https://user-images.githubusercontent.com/74038190/184917527-3f5dde24-889b-4d1b-a948-17d38e7476b9.png' alt="Stubborn_freemium_illustrations" /></a> | [Stubborn](https://stubborn.fun/)  <br><br> ✨ Freemium <br><br>Format <br> • Figma<br>• Sketch<br>• Adobe XD<br>• PNG<br>• SVG<br>• AI<br><br> ✌️Author <br> Getillustrations                                                                    |
 | <a href="https://www.ls.graphics/illustrations/whoosh"><img width='700' src='https://user-images.githubusercontent.com/74038190/184864391-7642a6f3-7698-4390-a135-bc5793953c83.png' alt="Whoosh_freemium_illustrations" /></a> | [Whoosh](https://www.ls.graphics/illustrations/whoosh)  <br><br> ✨ Freemium <br><br>Format <br> • Figma<br>• Sketch<br>• Adobe XD<br>• SVG<br>• AI<br><br> ✌️Author <br> ls.graphics                                             |
+| <a href="https://www.ls.graphics/illustrations/yeeow"><img width='700' src='https://user-images.githubusercontent.com/92253071/193479942-5f1d44b5-55a3-49b9-86fa-9e7dafabede5.png' alt="Yeeowq!_illustration_kit" /></a> | [Yeeow!](https://www.ls.graphics/illustrations/yeeow)  <br><br> ✨ Freemium  <br><br>Format <br> • Affinity<br> • Figma<br> • Adobe Illustrator<br> • Sketch<br> • SVG<br> • PNG<br><br> ✌️Author <br> LS Graphics |
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
  ## 💰 Paid [🔝](#awesome-illustrations-4-projects-)
