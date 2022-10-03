@@ -1,0 +1,55 @@
+name: "🚀 Add New Illustration"
+description: Create a new ticket for adding an illustration
+title: "🚀 [Illustration] - <title>"
+labels: [
+  "add illustration"
+]
+body:
+  - type: textarea
+    id: link
+    attributes:
+      label: "Link of the Illustration"
+      description: Please enter the link of the Illustration
+      placeholder: Full URL with https://...
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: "Category of The Illustration"
+      description: what is the category of the illustration
+      multiple: false
+      options:
+        - Free
+        - Freemium
+        - Paid
+        - Group
+  - type: textarea
+    id: format
+    attributes:
+      label: "Formats Available"
+      description: Please enter the formats using list
+      value: |
+        Format
+        -  SVG
+        -  PNG
+        -  AI
+        -  so on
+    validations:
+      required: false
+  - type: textarea
+    id: author
+    attributes:
+      label: "Author"
+      description: Enter the Author's name of the Illustration
+      placeholder: e.g. Craftwork.design
+    validations:
+      required: true   
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct]()
+      options:
+        - label: I follow [Contributing Guidelines](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/blob/main/CONTRIBUTING.md) of this project.
+          required: true
