@@ -1,0 +1,34 @@
+name: "🐛 Outdated Illustration Report"
+description: Create a new ticket for adding an illustration
+title: "🐛 [Illustration] - <title>"
+labels: [
+  "illustration outdated"
+]
+body:
+  - type: textarea
+    id: link
+    attributes:
+      label: "Link of the Illustration"
+      description: Please enter the link of the Illustration
+      placeholder: Full URL with https://...
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: "Category of The Illustration"
+      description: what is the category of the illustration
+      multiple: false
+      options:
+        - Free
+        - Freemium
+        - Paid
+        - Group
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description"
+      description: concise description of what is the exact issue
+      placeholder: Short and explicit description of the outdated/broken illustration
+    validations:
+      required: true
