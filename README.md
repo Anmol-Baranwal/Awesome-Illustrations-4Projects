@@ -119,6 +119,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
     - [Springtale](https://growwwkit.com/illustrations/springtale/)
     - [The Carltons](https://growwwkit.com/illustrations/the-carltons/)
     - [The Townies](https://growwwkit.com/illustrations/the-townies/)
+    - [Workaholics](https://growwwkit.com/illustrations/workaholics/)
     
   - [🎨 Group](#-group-)
     - [Black Illustrations](https://www.blackillustrations.com/)
@@ -250,6 +251,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 | <a href="https://growwwkit.com/illustrations/springtale/"><img width='700' src='https://user-images.githubusercontent.com/34191321/194427385-05f505c2-7d7b-44b7-ad15-f2d6a54d0585.png' alt="Springtale_paid_illustrations" /></a> | [Springtale](https://growwwkit.com/illustrations/springtale/)  <br><br> 💰 Paid <br><br>Format <br> • AI<br>• SVG<br>• PNG<br>• PDF<br>• Illustrator<br>• Sketch<br>• Figma<br>• Corel Draw<br><br> ✌️Author <br> Growww  |
 | <a href="https://growwwkit.com/illustrations/the-carltons/"><img width='700' src='https://user-images.githubusercontent.com/34191321/194425337-28e80ee2-8a75-48e9-9ccd-5613b569280b.png' alt="The Carltons_paid_illustrations" /></a> | [The Carltons](https://growwwkit.com/illustrations/the-carltons/)  <br><br> 💰 Paid <br><br>Format <br> • AI<br>• SVG<br>• PNG<br>• PDF<br>• Illustrator<br>• Sketch<br>• Figma<br>• Corel Draw<br><br> ✌️Author <br> Growww  |
 | <a href="https://growwwkit.com/illustrations/the-townies/"><img width='700' src='https://user-images.githubusercontent.com/34191321/194423843-67ad5302-b459-4b38-b630-bafb14830c93.png' alt="The Townies_paid_illustrations" /></a> | [The Townies](https://growwwkit.com/illustrations/the-townies/)  <br><br> 💰 Paid <br><br>Format <br> • AI<br>• SVG<br>• PNG<br>• PDF<br>• Illustrator<br>• Sketch<br>• Figma<br>• Corel Draw<br><br> ✌️Author <br> Growww  |
+| <a href="https://growwwkit.com/illustrations/workaholics/"><img width='700' src='https://user-images.githubusercontent.com/34191321/194429370-f48f5a53-0f6b-45c0-b54d-baabb5c974a9.png' alt="Workaholics_paid_illustrations" /></a> | [Workaholics](https://growwwkit.com/illustrations/workaholics/)  <br><br> 💰 Paid <br><br>Format <br> • AI<br>• SVG<br>• PNG<br>• PDF<br>• Illustrator<br>• Sketch<br>• Figma<br>• Corel Draw<br><br> ✌️Author <br> Growww  |
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
