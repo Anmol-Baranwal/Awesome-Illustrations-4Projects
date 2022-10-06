@@ -111,6 +111,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
   - [💰 Paid](#-paid-)
     
     - [Absurd](https://absurd.design/) 
+    - [Aventine](https://growwwkit.com/illustrations/aventine/)
     - [Desk Dudes](https://growwwkit.com/illustrations/desk-dudes/)
     - [Isometric Love](https://isometriclove.com/)  
     - [Isotopia](https://growwwkit.com/illustrations/isotopia/)
@@ -245,6 +246,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 |Showcase | Description |
 | ------- |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <a href="https://absurd.design/"><img width='700' src='https://user-images.githubusercontent.com/74038190/184918936-b0f15be9-8004-4d6d-ac7d-f3be7725a001.png' alt="Absurd_paid_illustrations" /></a> | [Absurd](https://absurd.design/)  <br><br> 💰 Paid <br><br>Format <br> • PNG<br><br> ✌️Author <br> Absurd.design  |
+| <a href="https://growwwkit.com/illustrations/aventine/"><img width='700' src='https://user-images.githubusercontent.com/34191321/194432596-c1360094-776f-4090-b578-9dd39f74d2ef.png' alt="Aventine_paid_illustrations" /></a> | [Aventine](https://growwwkit.com/illustrations/aventine/)  <br><br> 💰 Paid <br><br>Format <br> • AI<br>• SVG<br>• PNG<br>• PDF<br>• Illustrator<br>• Sketch<br>• Figma<br>• Corel Draw<br><br> ✌️Author <br> Growww  |
 | <a href="https://growwwkit.com/illustrations/desk-dudes/"><img width='700' src='https://user-images.githubusercontent.com/34191321/194423177-11260cc2-8920-4e1d-a034-92e203146670.png' alt="Desk Dudes_paid_illustrations" /></a> | [Desk Dudes](https://growwwkit.com/illustrations/desk-dudes/)  <br><br> 💰 Paid <br><br>Format <br> • AI<br>• SVG<br>• PNG<br>• PDF<br>• Illustrator<br>• Sketch<br>• Figma<br>• Corel Draw<br><br> ✌️Author <br> Growww  |
 | <a href="https://isometriclove.com/"><img width='700' src='https://user-images.githubusercontent.com/74038190/184918941-c337881b-fbf5-4eba-b5ca-53f450d54ea5.png' alt="Isometric_Love_paid_illustrations" /></a> | [Isometric Love](https://isometriclove.com/)  <br><br> 💰 Paid <br><br>Format <br> • PNG<br><br> ✌️Author <br> Isometric Love  |
 | <a href="https://growwwkit.com/illustrations/isotopia/"><img width='700' src='https://user-images.githubusercontent.com/34191321/194429704-dea83406-10c8-4441-83c8-f4a2b1cdb6c8.png' alt="Isotopia_paid_illustrations" /></a> | [Isotopia](https://growwwkit.com/illustrations/isotopia/)  <br><br> 💰 Paid <br><br>Format <br> • AI<br>• SVG<br>• PNG<br>• PDF<br>• Illustrator<br>• Sketch<br>• Figma<br>• Corel Draw<br><br> ✌️Author <br> Growww  |
