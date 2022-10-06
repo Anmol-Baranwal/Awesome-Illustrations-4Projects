@@ -115,6 +115,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
     - [Isometric Love](https://isometriclove.com/)  
     - [Jane](https://growwwkit.com/illustrations/jane/)
     - [Lil Helpers](https://growwwkit.com/illustrations/lil-helpers/)
+    - [Office Dave](https://growwwkit.com/illustrations/office-dave/)
     - [Springtale](https://growwwkit.com/illustrations/springtale/)
     - [The Carltons](https://growwwkit.com/illustrations/the-carltons/)
     - [The Townies](https://growwwkit.com/illustrations/the-townies/)
@@ -237,6 +238,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
  ## 💰 Paid [🔝](#awesome-illustrations-4-projects-)
+![Uploading Képernyőkép 2022-10-06 224534.png…]()
 
 |Showcase | Description |
 | ------- |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -245,6 +247,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 | <a href="https://isometriclove.com/"><img width='700' src='https://user-images.githubusercontent.com/74038190/184918941-c337881b-fbf5-4eba-b5ca-53f450d54ea5.png' alt="Isometric_Love_paid_illustrations" /></a> | [Isometric Love](https://isometriclove.com/)  <br><br> 💰 Paid <br><br>Format <br> • PNG<br><br> ✌️Author <br> Isometric Love  |
 | <a href="https://growwwkit.com/illustrations/jane/"><img width='700' src='https://user-images.githubusercontent.com/34191321/194425886-f753c499-90b4-4e14-bdc6-f4c2ca7c1ceb.png' alt="Jane_paid_illustrations" /></a> | [Jane](https://growwwkit.com/illustrations/jane/)  <br><br> 💰 Paid <br><br>Format <br> • AI<br>• SVG<br>• PNG<br>• PDF<br>• Illustrator<br>• Sketch<br>• Figma<br>• Corel Draw<br><br> ✌️Author <br> Growww  |
 | <a href="https://growwwkit.com/illustrations/lil-helpers/"><img width='700' src='https://user-images.githubusercontent.com/34191321/194424332-543c02fb-46c5-49f6-bc4e-5ba82c894662.png' alt="Lil Helpers_paid_illustrations" /></a> | [Lil Helpers](https://growwwkit.com/illustrations/lil-helpers/)  <br><br> 💰 Paid <br><br>Format <br> • AI<br>• SVG<br>• PNG<br>• PDF<br>• Illustrator<br>• Sketch<br>• Figma<br>• Corel Draw<br><br> ✌️Author <br> Growww  |
+| <a href="https://growwwkit.com/illustrations/office-dave/"><img width='700' src='https://user-images.githubusercontent.com/34191321/194427793-0406d730-3ff3-4811-b53d-7e2261e9ba72.png' alt="Office Dave_paid_illustrations" /></a> | [Office Dave](https://growwwkit.com/illustrations/office-dave/)  <br><br> 💰 Paid <br><br>Format <br> • AI<br>• SVG<br>• PNG<br>• PDF<br>• Illustrator<br>• Sketch<br>• Figma<br>• Corel Draw<br><br> ✌️Author <br> Growww  |
 | <a href="https://growwwkit.com/illustrations/springtale/"><img width='700' src='https://user-images.githubusercontent.com/34191321/194427385-05f505c2-7d7b-44b7-ad15-f2d6a54d0585.png' alt="Springtale_paid_illustrations" /></a> | [Springtale](https://growwwkit.com/illustrations/springtale/)  <br><br> 💰 Paid <br><br>Format <br> • AI<br>• SVG<br>• PNG<br>• PDF<br>• Illustrator<br>• Sketch<br>• Figma<br>• Corel Draw<br><br> ✌️Author <br> Growww  |
 | <a href="https://growwwkit.com/illustrations/the-carltons/"><img width='700' src='https://user-images.githubusercontent.com/34191321/194425337-28e80ee2-8a75-48e9-9ccd-5613b569280b.png' alt="The Carltons_paid_illustrations" /></a> | [The Carltons](https://growwwkit.com/illustrations/the-carltons/)  <br><br> 💰 Paid <br><br>Format <br> • AI<br>• SVG<br>• PNG<br>• PDF<br>• Illustrator<br>• Sketch<br>• Figma<br>• Corel Draw<br><br> ✌️Author <br> Growww  |
 | <a href="https://growwwkit.com/illustrations/the-townies/"><img width='700' src='https://user-images.githubusercontent.com/34191321/194423843-67ad5302-b459-4b38-b630-bafb14830c93.png' alt="The Townies_paid_illustrations" /></a> | [The Townies](https://growwwkit.com/illustrations/the-townies/)  <br><br> 💰 Paid <br><br>Format <br> • AI<br>• SVG<br>• PNG<br>• PDF<br>• Illustrator<br>• Sketch<br>• Figma<br>• Corel Draw<br><br> ✌️Author <br> Growww  |
