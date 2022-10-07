@@ -264,7 +264,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
    - Write the formats in which the asset is availaible with breaks in between at `type_formats_with_break_in_between`
    - Write author at `author_of_the_illustration`
    - Paste on category with `Alphabetical` order
-   - See examples in the section if you are confused
+   - See examples in the section if you are confused (especially for alt text for a consistent style)
    - Commit the changes and make a pull request
 5. In case if you are contributing other than the illustrations, feel free to remove the pull request template.
 
