@@ -29,6 +29,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
     - [Bam 3D](https://bamdesign.gumroad.com/l/bamillu)
     - [Big Heads](https://bigheads.io/)
     - [Blues](https://www.getillustrations.com/illustration-pack/blues-dual-tone-free-illustrations)
+    - [Boring Avatars](https://boringavatars.com)
     - [Bottts Generator](https://www.botttsgenerator.com/)
     - [Bzzzt](https://www.ls.graphics/illustrations/bzzzt)
     - [Casual Life 3D](https://www.figma.com/community/file/1118811400396348161)
@@ -39,6 +40,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
     - [Control](https://craftwork.gumroad.com/l/ZWiR)
     - [Daily 50](https://www.getillustrations.com/illustration-pack/download-free-daily-illustrations)
     - [Delesign](https://delesign.com/free-designs/graphics/)
+    - [DiceBear Avatars](https://avatars.dicebear.com)
     - [Diversity Avatars](https://www.netguru.com/blog/inclusive-design-how-to-start)
     - [Doodle Ipsum](https://doodleipsum.com/)
     - [Drawer Avatar](https://drawer.design/products/avatar-library/)
@@ -155,6 +157,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 | <a href="https://bamdesign.gumroad.com/l/bamillu"><img width='700' src='https://user-images.githubusercontent.com/74038190/184643153-3bc26335-d868-494f-8818-8201949fc44b.png' alt="Bam_3D_free_illustrations" /></a> | [Bam 3D](https://bamdesign.gumroad.com/l/bamillu)  <br><br> ✔ Free <br><br>Format <br> • PNG<br><br> ✌️Author <br> BAM Design                                                                                            |
 | <a href="https://bigheads.io/"><img width='700' src='https://user-images.githubusercontent.com/74038190/184808185-47ad4564-eb78-4b13-87f9-a8f973940cd1.png' alt="bigHeads_free_illustrations" /></a> | [Big Heads](https://bigheads.io/)  <br><br> ✔ Free <br><br>Format <br>• SVG<br><br> ✌️Author <br> Big Heads |
 | <a href="https://www.getillustrations.com/illustration-pack/blues-dual-tone-free-illustrations"><img width='700' src='https://user-images.githubusercontent.com/74038190/184643324-bb155fb8-1b59-41e4-828d-3512f02b667a.png' alt="Blues_free_illustrations" /></a> | [Blues](https://www.getillustrations.com/illustration-pack/blues-dual-tone-free-illustrations)  <br><br> ✔ Free <br><br>Format <br> • Figma<br>• Sketch<br>• Adobe XD<br>• AI<br>• SVG<br>• AI<br><br> ✌️Author <br> Getillustrations                                                        |
+| <a href="https://boringavatars.com"><img width='700' src='https://user-images.githubusercontent.com/74038190/194601571-dfae3f4a-05c2-478d-b445-7eace11eac59.png' alt="Boring_Avatars_free_illustrations" /></a> | [Boring Avatars](https://boringavatars.com)  <br><br> ✔ Free <br><br>Format <br> • SVG<br><br> ✌️Author <br> Hayk An & Josep Martins                                                       |
 | <a href="https://www.botttsgenerator.com/"><img width='700' src='https://user-images.githubusercontent.com/74038190/184917328-17a42812-d4f2-44cc-8db2-6f6f0e82bca0.png' alt="Bottts_generator" /></a> | [Bottts Generator](https://www.botttsgenerator.com/)  <br><br> ✔ Free <br><br>Format <br> • SVG<br>• PNG<br><br> ✌️Author <br> Pablo Stanley                                                                                         |
 | <a href="https://www.figma.com/community/file/1118811400396348161"><img width='700' src='https://user-images.githubusercontent.com/74038190/185668999-06d218a3-ad75-47ce-bb9a-7c03469d53a5.png' alt="casual-life-3d-free-illustrations" /></a> | [Casual Life 3D](https://www.figma.com/community/file/1118811400396348161)  <br><br> ✔ Free <br><br>Format: <br> • Figma<br><br> Author <br> Icons8                                                      | 
 | <a href="https://www.ls.graphics/illustrations/bzzzt"><img width='700' src='https://user-images.githubusercontent.com/92253071/193479713-8d5b12fd-b366-43ca-aba1-ff24b0e78060.png' alt="Bzzt_3d_abstract_free_illustrations" /></a> | [Bzzzt](https://www.ls.graphics/illustrations/bzzzt)  <br><br> ✔ Free  <br><br>Format <br> • Figma<br> • PNG<br> • SVG<br> • Sketch<br> • Adobe XD<br> • Adobe Illustrator<br> • Affinity<br><br> ✌️Author <br> LS Graphics |
@@ -165,6 +168,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 | <a href="https://craftwork.gumroad.com/l/ZWiR"><img width='700' src='https://user-images.githubusercontent.com/74038190/184810212-6b2ee06f-81a7-413c-b967-a899e9b7b56c.png' alt="Control_free_illustrations" /></a> | [Control](https://craftwork.gumroad.com/l/ZWiR)  <br><br> ✔ Free <br><br>Format <br> • PNG<br> • Adobe Illustrator<br><br> ✌️Author <br> Craftwork.design                                                                                             |
 | <a href="https://www.getillustrations.com/illustration-pack/download-free-daily-illustrations"><img width='700' src='https://user-images.githubusercontent.com/74038190/184478648-65d44155-3b84-482d-adde-9878ae1efdfa.png' alt="Daily 50_free_getillustrations" /></a> | [Daily 50](https://www.getillustrations.com/illustration-pack/download-free-daily-illustrations)  <br><br> ✔ Free <br><br>Format <br> • Adobe XD<br>• Figma<br>• Illustrator<br>• Sketch<br><br> ✌️Author <br>Getillustrations                                                     |
 | <a href="https://delesign.com/free-designs/graphics/"><img width='700' src='https://user-images.githubusercontent.com/74038190/184916250-3f55d22b-e96e-45d2-93bc-13bdfe07f24d.png' alt="Delesign_free_illustrations" /></a> | [Delesign](https://delesign.com/free-designs/graphics/)  <br><br> ✔ Free <br><br>Format <br> • SVG<br>• PNG<br><br> ✌️Author <br> Delesign                                                                                |
+| <a href="https://avatars.dicebear.com"><img width='700' src='https://user-images.githubusercontent.com/36109048/194866787-3b0aeb4a-1247-4482-9c8c-b2a238ddb015.png' alt="DiceBear_Avatars__free_illustrations" /></a> | [DiceBear Avatars](https://avatars.dicebear.com) <br><br> ✔ Free <br><br>Format <br> • API<br>• SVG<br> • PNG<br>• JPG<br><br> ✌️Author <br> Florian Körner                 |
 | <a href="https://www.netguru.com/blog/inclusive-design-how-to-start"><img width='700' src='https://user-images.githubusercontent.com/74038190/184863860-1183d100-2a94-40dd-9e33-d44ca3011516.png' alt="Diversity_Avatars_free_illustrations" /></a> | [Diversity Avatars](https://www.netguru.com/blog/inclusive-design-how-to-start) <br><br> ✔ Free <br><br>Format <br> • AI<br>• Sketch<br>• SVG<br><br> ✌️Author <br> Netguru                       |
 | <a href="https://doodleipsum.com/"><img width='700' src='https://user-images.githubusercontent.com/74038190/184643856-ea39f8f7-6c5d-45a5-a474-65f38063594b.png' alt="Doodle_Ipsum_free_illustrations" /></a> | [Doodle Ipsum](https://doodleipsum.com/)  <br><br> ✔ Free <br><br>Format <br> • Figma<br><br> ✌️Author <br> Blush |
 | <a href="https://drawer.design/products/avatar-library/"><img width='700' src='https://user-images.githubusercontent.com/74038190/184863865-4c6200a4-cd20-4695-a330-9ae0f9735b55.png' alt="Drawer_Avatar_free_illustrations" /></a> | [Drawer Avatar](https://drawer.design/products/avatar-library/)  <br><br> ✔ Free <br><br>Format <br> • Figma<br>• Sketch<br><br> ✌️Author <br> Drawer                                                                  |
@@ -331,7 +335,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
         <a href=https://github.com/Sn4pe>
             <img src="https://avatars.githubusercontent.com/u/36109048?v=4" width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=David/>
             <br />
-            <sub style="font-size:14px"><b>David</b></sub>
+            <sub style="font-size:14px"><b>Sn4pe</b></sub>
         </a>
     </td>
 </tr>
