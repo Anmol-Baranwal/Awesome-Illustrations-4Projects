@@ -163,7 +163,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
     - [Skribbl](https://weareskribbl.com/)
     - [Sleekbundle](https://sleekbundle.com/)
       
-- [Contributors](#-contributors-)
+- [Contributors](#-our-valuable-contributors-)
 
 <br>
 
@@ -172,6 +172,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 <br>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Free Category ------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
  ## ✔️ Free [🔝](#awesome-illustrations-4-projects-)
@@ -273,6 +274,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 | <a href="https://www.getillustrations.com/illustration-pack/zanzi-free-illustrations-for-websites"><img width='700' src='https://user-images.githubusercontent.com/74038190/184506473-d0bcf74b-0b53-48c5-989f-8ce3cbaf55f3.png' alt="Zanzi_free_illustrations" /></a> | [Zanzi](https://www.getillustrations.com/illustration-pack/zanzi-free-illustrations-for-websites)  <br><br> ✔ Free <br><br>Format <br> • Figma<br>• Sketch<br>• Adobe XD<br>• PNG<br>• SVG<br>• AI<br><br> ✌️Author <br> Getillustrations                                                       |
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Freemium Category --------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
  ## ✨ Freemium [🔝](#awesome-illustrations-4-projects-)
@@ -296,6 +298,9 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 | <a href="https://www.kapustin.co/tokyo"><img width='700' src='https://user-images.githubusercontent.com/92253071/193480612-caec3f3f-eda1-42a9-9e00-6a91ebca69b0.png' alt="Tokyo_freemium_illustrations" /></a> | [Tokyo](https://www.kapustin.co/tokyo)  <br><br> ✨ Freemium  <br><br>Format <br> • Adobe Illustrator<br> • EPS<br> • PDF<br> • SVG<br> • Sketch<br> • Figma<br> • Small PNG<br><br> ✌️Author <br> Kapustin.co |
 | <a href="https://www.ls.graphics/illustrations/whoosh"><img width='700' src='https://user-images.githubusercontent.com/74038190/184864391-7642a6f3-7698-4390-a135-bc5793953c83.png' alt="Whoosh_freemium_illustrations" /></a> | [Whoosh](https://www.ls.graphics/illustrations/whoosh)  <br><br> ✨ Freemium <br><br>Format <br> • Figma<br>• Sketch<br>• Adobe XD<br>• SVG<br>• AI<br><br> ✌️Author <br> ls.graphics                                             |
 | <a href="https://www.ls.graphics/illustrations/yeeow"><img width='700' src='https://user-images.githubusercontent.com/92253071/193479942-5f1d44b5-55a3-49b9-86fa-9e7dafabede5.png' alt="Yeeow_freemium_illustration_kit" /></a> | [Yeeow](https://www.ls.graphics/illustrations/yeeow)  <br><br> ✨ Freemium  <br><br>Format <br> • Affinity<br> • Figma<br> • Adobe Illustrator<br> • Sketch<br> • SVG<br> • PNG<br><br> ✌️Author <br> LS Graphics |
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Paid Category ------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
  ## 💰 Paid [🔝](#awesome-illustrations-4-projects-)
@@ -325,6 +330,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Group Category ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ## 🎨 Group [🔝](#awesome-illustrations-4-projects-)
@@ -338,7 +344,9 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 | <a href="https://sleekbundle.com/"><img width='700' src='https://user-images.githubusercontent.com/74038190/195028876-7a62f6dd-87a3-4966-9a49-590f14b43a83.png' alt="Sleekbundle_illustrations_group" /></a> | [Sleekbundle](https://sleekbundle.com/)  <br><br> 🎨 Group <br><br>Format <br> • Sketch<br> • Figma<br> • Ai<br> • SVG<br> • PNG<br><br> ✌️Author <br> Sleekbundle |
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- How to Contribute Section ------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
 
 ## ✏ How to Contribute? [🔝](#awesome-illustrations-4-projects-)
 1. Contributions are welcome! Please take a quick look at the [contributing guidelines](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/blob/main/CONTRIBUTING.md) first.
@@ -364,8 +372,20 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 
 ---
 
-## 🔥 Contributors [🔝](#awesome-illustrations-4-projects-)
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- --- Contributors Section ------------------------------------------------------------------------------------------------------------------------------>
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------->
 
+## 🔥 Our Valuable Contributors [🔝](#awesome-illustrations-4-projects-)
+
+[![Built With Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects)  [![Built With Swag](https://forthebadge.com/images/badges/built-with-swag.svg)](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects)
+
+
+<br>
+
+
+Special thanks to all the **contributors** 💜
+<br>
 <!-- Special thanks to all the **contributors** -->
 
 <table>
@@ -404,8 +424,17 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 <!-- **Important:** This list will be updated by observing the contributions in every three months. -->
 
 
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- --- Feedback Section ---------------------------------------------------------------------------------------------------------------------------------->
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------->
 
+## Feedback
 
+If you have any feedback or suggestions please reach out to Project Maintainer [Anmol Baranwal](https://github.com/Anmol-Baranwal)
+
+Or you can create an  <a href="https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/issues">issue</a> where you can mention some new ideas or suggestions that will enhance this project✨.
+
+Show some ❤️ by starring this fabulous repository!
 
 
 
