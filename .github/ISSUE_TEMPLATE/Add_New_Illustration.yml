@@ -2,7 +2,7 @@ name: "🚀 Add New Illustration"
 description: Create a new ticket for adding an illustration
 title: "🚀 [Illustration] - <title>"
 labels: [
-  "add illustration"
+  "new illustration"
 ]
 body:
   - type: textarea
