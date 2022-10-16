@@ -122,7 +122,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
     - [Clak](https://www.ls.graphics/illustrations/clak)
     - [CHARACTERZ 2](https://characterz.design/)
     - [Emojiz](https://emojiz.design/)
-    - [flaticon](https://www.flaticon.com/)
+    - [Flaticon](https://www.flaticon.com/)
     - [Handz 3D](https://www.handz.design/)
     - [Lordicon](https://lordicon.com/icons/wired/lineal)
     - [Merry Christmas](https://icons8.com/l/christmas-illustrations/)
