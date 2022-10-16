@@ -1,5 +1,5 @@
 name: "🐛 Report Outdated Illustration"
-description: Create a new ticket for adding an illustration
+description: Create a new ticket to report outdated illustration
 title: "🐛 [Illustration] - <title>"
 labels: [
   "illustration outdated"
