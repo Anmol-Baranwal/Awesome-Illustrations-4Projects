@@ -1,10 +1,9 @@
 ## Illustration Information 
 
+closes #issue_number 
+<!-- for example: closes #20 -->
+
 {Illustration Name} | `link of the illustration website`
-
-{Author name} | `Source link of the information`
-
-{Screenshot} | `the link to the webpage that is used for the screenshot`
 
 ---
 
