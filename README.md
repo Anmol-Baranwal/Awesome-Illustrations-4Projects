@@ -1,4 +1,4 @@
-![Anmol-Baranwal_Awesome-Illustrations-4Projects_Banner](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/blob/main/assets/Banner.png)
+![Anmol-Baranwal_Awesome-Illustrations-4Projects_Banner](https://user-images.githubusercontent.com/74038190/216432602-b64084c4-0d8c-4774-b39e-18e13fa8420a.png)
 
 ---
 
