@@ -151,7 +151,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
     - [Aventine](https://growwwkit.com/illustrations/aventine/)
     - [Desk Dudes](https://growwwkit.com/illustrations/desk-dudes/)
     - [Circuit](https://growwwkit.com/illustrations/circuit/)
-    - [Clusck 2.0!](https://www.ls.graphics/products/clusck-2-0-illustration-kit)
+    - [Clusck 2.0](https://www.ls.graphics/products/clusck-2-0-illustration-kit)
     - [Desk Dudes](https://growwwkit.com/illustrations/desk-dudes/)
     - [Economy & Finance](https://www.drawkit.com/product/economy-finance-illustrations)
     - [Familiar Bunch](https://growwwkit.com/illustrations/the-familiar-bunch-illustration-pack/)
