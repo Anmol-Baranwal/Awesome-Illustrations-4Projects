@@ -428,30 +428,37 @@ Special thanks to all the **contributors** 💜
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/kera-cudmore>
-            <img src="https://avatars.githubusercontent.com/u/92253071?v=4" width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Kera Cudmore/>
+        <a href="https://github.com/kera-cudmore">
+            <img src="https://avatars.githubusercontent.com/u/92253071?v=4" width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt="Kera Cudmore" />
             <br />
             <sub style="font-size:14px"><b>Kera Cudmore</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/Sn4pe>
-            <img src="https://avatars.githubusercontent.com/u/34191321?v=4" width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Judit />
+        <a href="https://github.com/jpacsai">
+            <img src="https://avatars.githubusercontent.com/u/34191321?v=4" width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt="Judit" />
             <br />
-            <sub style="font-size:14px"><b>Judit</b></sub>
+            <sub style="font-size:14px"><b>Judit Pacsai</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/Sn4pe>
-            <img src="https://avatars.githubusercontent.com/u/36109048?v=4" width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=David/>
+        <a href="https://github.com/Sn4pe">
+            <img src="https://avatars.githubusercontent.com/u/36109048?v=4" width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt="David" />
             <br />
             <sub style="font-size:14px"><b>Sn4pe</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href="https://github.com/PiseAtharva">
+            <img src="https://avatars.githubusercontent.com/u/88548999?v=4" width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt="Atharva Pise" />
+            <br />
+            <sub style="font-size:14px"><b>Atharva Pise</b></sub>
         </a>
     </td>
 </tr>
 </table>
 
-<!-- **Important:** This list will be updated by observing the contributions in every three months. -->
+
 
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------->
