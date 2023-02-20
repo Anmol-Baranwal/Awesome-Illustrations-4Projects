@@ -11,7 +11,7 @@ jobs:
     steps:
     - uses: derekprior/add-autoresponse@master
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.ISSUES_PR }}
       with:
         respondableId: ${{ github.event.pull_request.node_id }}
         response: "Thanks for your contribution, we will soon check your PR @${{ github.event.pull_request.user.login }} :)"
