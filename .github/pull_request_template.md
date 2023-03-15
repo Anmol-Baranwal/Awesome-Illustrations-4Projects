@@ -20,7 +20,7 @@ resolves #issue_number
 
 <!-- Tick the checkboxes to ensure you've done everything correctly => [x] represents a checkbox  -->
 
-- [ ] Name the PR fix: add `<illustration_name>`.
+- [ ] Name the PR feat: add `<illustration_name>`.    <!-- write illustration name e.g. feat: add Yaam  -->
 - [ ] Search previous suggestions before making a new one, as yours may be a duplicate.
 - [ ] You've linked the PR to the correct issue.
 - [ ] I have read the [Contribution Guidelines](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/blob/main/CONTRIBUTING.md)
