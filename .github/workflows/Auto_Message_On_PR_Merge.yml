@@ -1,0 +1,18 @@
+name: Auto message on pr merge
+
+on:
+  pull_request_target:
+    types: [closed]
+
+jobs:
+  auto-response:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: derekprior/add-autoresponse@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.ISSUES_PR }}
+      with:
+        respondableId: ${{ github.event.pull_request.node_id }}
+        response: "Well Done @${{ github.event.pull_request.user.login }} !! Appreciate your contribution :)"
+        author: ${{ github.event.pull_request.user.login }}
