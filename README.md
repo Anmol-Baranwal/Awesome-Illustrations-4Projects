@@ -426,60 +426,32 @@ Special thanks to all the **contributors** 💜
 
 <table>
 <tr>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/Anmol-Baranwal>
-            <img src="https://avatars.githubusercontent.com/u/74038190?v=4" width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Anmol Baranwal/>
-            <br />
-            <sub style="font-size:14px"><b>Anmol Baranwal</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href="https://github.com/kera-cudmore">
-            <img src="https://avatars.githubusercontent.com/u/92253071?v=4" width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt="Kera Cudmore" />
-            <br />
-            <sub style="font-size:14px"><b>Kera Cudmore</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href="https://github.com/jpacsai">
-            <img src="https://avatars.githubusercontent.com/u/34191321?v=4" width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt="Judit" />
-            <br />
-            <sub style="font-size:14px"><b>Judit Pacsai</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href="https://github.com/Sn4pe">
-            <img src="https://avatars.githubusercontent.com/u/36109048?v=4" width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt="David" />
-            <br />
-            <sub style="font-size:14px"><b>Sn4pe</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href="https://github.com/PiseAtharva">
-            <img src="https://avatars.githubusercontent.com/u/88548999?v=4" width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt="Atharva Pise" />
-            <br />
-            <sub style="font-size:14px"><b>Atharva Pise</b></sub>
-        </a>
-    </td>
+<td align="center" width="150"><a href="https://github.com/Anmol-Baranwal"><img src="https://avatars.githubusercontent.com/u/74038190?v=4" width="100" alt="GitHub Profile of Anmol Baranwal" /><br><sub>Anmol Baranwal</sub></a><br><a href="https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/commits?author=Anmol-Baranwal" title="Contributions">🙂💻 </a></td>
+
+<td align="center" width="150"><a href="https://github.com/kera-cudmore"><img src="https://avatars.githubusercontent.com/u/92253071?v=4" width="100" alt="GitHub Profile of Kera Cudmore" /><br><sub>Kera Cudmore</sub></a><br><a href="https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/commits?author=kera-cudmore" title="Contributions">🙂💻 </a></td>
+
+<td align="center" width="150"><a href="https://github.com/jpacsai"><img src="https://avatars.githubusercontent.com/u/34191321?v=4" width="100" alt="GitHub Profile of Judit Pacsai" /><br><sub>Judit Pacsai</sub></a><br><a href="https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/commits?author=jpacsai" title="Contributions">🙂💻 </a></td>
+
+<td align="center" width="150"><a href="https://github.com/Sn4pe"><img src="https://avatars.githubusercontent.com/u/36109048?v=4" width="100" alt="GitHub Profile of David" /><br><sub>Sn4pe</sub></a><br><a href="https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/commits?author=Sn4pe" title="Contributions">🙂💻 </a></td>
+
+<td align="center" width="150"><a href="https://github.com/PiseAtharva"><img src="https://avatars.githubusercontent.com/u/88548999?v=4" width="100" alt="GitHub Profile of Atharva Pise" /><br><sub>Atharva Pise</sub></a><br><a href="https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/commits?author=PiseAtharva" title="Contributions">🙂💻 </a></td>
+
 </tr>
 </table>
 
-
-
+<br>
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!-- --- Feedback Section ---------------------------------------------------------------------------------------------------------------------------------->
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-## Feedback
+## Feedback [🔝](#awesome-illustrations-4-projects-)
 
 If you have any feedback or suggestions please reach out to Project Maintainer [Anmol Baranwal](https://github.com/Anmol-Baranwal)
 
 Or you can create an  <a href="https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/issues">issue</a> where you can mention some new ideas or suggestions that will enhance this project✨.
 
-Show some ❤️ by starring this fabulous repository!
-
-
+Show some ❤️ by 🌟 this fabulous repository! 
 
 
 
