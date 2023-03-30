@@ -7,6 +7,8 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
 
 <a href="https://www.producthunt.com/posts/awesome-illustrations-for-projects?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome&#0045;illustrations&#0045;for&#0045;projects" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=386278&theme=light" alt="Awesome&#0032;Illustrations&#0032;for&#0032;Projects - Bring&#0032;your&#0032;projects&#0032;to&#0032;life | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
+> Help us spread the word by leaving a [review](https://www.producthunt.com/products/awesome-illustrations-for-projects/reviews/new) on our Product Hunt page - your feedback means the world to us!
+
 ## How are these organised?
 
 1. **Free** - &nbsp;These illustrations are allowed to use for personal and commercial projects with/without attribution.
