@@ -46,7 +46,10 @@ Please ensure your pull request adheres to the following guidelines:
 
 To add illustrations, you can read the detailed instructions [here](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects#-how-to-contribute-)
 
-You can add individual illustrations which have their unique pack even if the entire group has been added in the Group category.
+You can add individual illustrations, each with their unique pack, even if the entire group has already been added to the Group category.
+
+In case you are searching for new illustrations to add to the repository collection, I recommend taking a look at [this resource](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/issues/43). It contains a collection of illustrations for those who are eager to make their contributions and join the creative journey.
+
 
 <!-- >Make sure to see the [Pull Request Template](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/blob/main/PULL_REQUEST_TEMPLATE.md) for your ease. -->
 
@@ -56,7 +59,7 @@ You can add individual illustrations which have their unique pack even if the en
 If you have any feedback or suggestions please reach out to Project Maintainer [Anmol Baranwal](https://github.com/Anmol-Baranwal).
   
   
-Or you can create an  <a href="https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/issues">issue</a> where you can mention some new ideas or suggestions that will enhance this project✨.
+Or you can create an  <a href="https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/issues/new/choose">issue</a> where you can mention some new ideas or suggestions that will enhance this project✨.
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------->
 
