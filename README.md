@@ -3,11 +3,13 @@
 ---
 
 # Awesome Illustrations For Projects <img src="https://user-images.githubusercontent.com/74038190/184504164-d28f6476-e68b-48c5-996f-84c6f7423c13.png" width="50px" />
-Improve your projects using these awesome illustrations. See a sample <a href="https://david-hckh.com/" target="_blank">here</a>
+Unlock a world of creativity and bring your projects to life with Awesome Illustrations! See a masterpiece <a href="https://david-hckh.com/">here</a>.
 
 <a href="https://www.producthunt.com/posts/awesome-illustrations-for-projects?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome&#0045;illustrations&#0045;for&#0045;projects" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=386278&theme=light" alt="Awesome&#0032;Illustrations&#0032;for&#0032;Projects - Bring&#0032;your&#0032;projects&#0032;to&#0032;life | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
-> Help us spread the word by leaving a [review](https://www.producthunt.com/products/awesome-illustrations-for-projects/reviews/new) on our Product Hunt page - your feedback means the world to us!
+Be a part of the movement to unleash creativity by leaving a [review](https://www.producthunt.com/products/awesome-illustrations-for-projects/reviews/new) on our Product Hunt page! Your support and feedback mean everything to us. If you love what we're doing, don't forget to give us an [upvote](https://www.producthunt.com/posts/awesome-illustrations-for-projects) too.
+
+<!--COMMENT:  Help us spread the word by leaving a on our Product Hunt page - your feedback means the world to us! -->
 
 ## How are these organised?
 
@@ -412,7 +414,7 @@ Improve your projects using these awesome illustrations. See a sample <a href="h
    - Commit the changes and make a pull request
 5. In case if you are contributing other than the illustrations, feel free to remove the pull request template.
 
-**Important:** If you are looking to get started then check some of the existing illustration websites like craftwork, uistore, etc.
+**Important:** In case you are searching for new illustrations to add to the repository collection, I recommend taking a look at [this resource](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/issues/43). It contains a collection of illustrations for those who are eager to make their contributions and join the creative journey.
 
 ---
 
@@ -455,11 +457,11 @@ Special thanks to all the **contributors** 💜
 
 ## Feedback [🔝](#awesome-illustrations-4-projects-)
 
-If you have any feedback or suggestions please reach out to Project Maintainer [Anmol Baranwal](https://github.com/Anmol-Baranwal)
+Your opinion matters! Feel free to get in touch with the Project Maintainer [Anmol Baranwal](https://github.com/Anmol-Baranwal) if you have any feedback or suggestions. We're always looking for ways to improve and welcome your valuable insights. 
 
-Or you can create an  <a href="https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/issues">issue</a> where you can mention some new ideas or suggestions that will enhance this project✨.
+Share your amazing ideas with us by creating an <a href="https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/issues/new/choose">issue</a>! We welcome all creative contributions to help take this project to the next level✨.
 
-Show some ❤️ by 🌟 this fabulous repository! 
+Help us spread the ❤️ for creative illustrations by 🌟 our Awesome-Illustrations-4Projects repository. Every star counts!
 
 
 
