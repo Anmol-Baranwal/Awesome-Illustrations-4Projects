@@ -155,6 +155,7 @@ Be a part of the movement to unleash creativity by leaving a [review](https://ww
   - [💰 Paid](#-paid-)
     
     - [Absurd](https://absurd.design/) 
+    - [50+ Animated Loaders](https://drawer.design/products/50-animated-loaders/)
     - [Aventine](https://growwwkit.com/illustrations/aventine/)
     - [Desk Dudes](https://growwwkit.com/illustrations/desk-dudes/)
     - [Circuit](https://growwwkit.com/illustrations/circuit/)
@@ -364,6 +365,7 @@ Be a part of the movement to unleash creativity by leaving a [review](https://ww
 |Showcase | Description |
 | ------- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <a href="https://absurd.design/"><img width='700' src='https://user-images.githubusercontent.com/74038190/184918936-b0f15be9-8004-4d6d-ac7d-f3be7725a001.png' alt="Absurd_paid_illustrations" /></a> | [Absurd](https://absurd.design/)  <br><br> 💰 Paid <br><br>Format <br> • PNG<br><br> ✌️Author <br> Absurd.design  |
+| <a href="https://drawer.design/products/50-animated-loaders/"><img width='700' src='https://user-images.githubusercontent.com/74038190/232206589-50585611-a860-4c3d-9ce2-2f6c0336eece.png' alt="50_Animated_Loaders_paid_illustrations" /></a> | [50+ Animated Loaders](https://drawer.design/products/50-animated-loaders/)  <br><br> 💰 Paid  <br><br>Format <br> • Adobe Illustrator<br> • Adobe After Effects<br> • Lottie<br><br> ✌️Author <br> Drawer |
 | <a href="https://growwwkit.com/illustrations/aventine/"><img width='700' src='https://user-images.githubusercontent.com/34191321/194432596-c1360094-776f-4090-b578-9dd39f74d2ef.png' alt="Aventine_paid_illustrations" /></a> | [Aventine](https://growwwkit.com/illustrations/aventine/)  <br><br> 💰 Paid <br><br>Format <br> • AI<br>• SVG<br>• PNG<br>• PDF<br>• Illustrator<br>• Sketch<br>• Figma<br>• Corel Draw<br><br> ✌️Author <br> Growww  |                                                |
 | <a href="https://growwwkit.com/illustrations/circuit/"><img width='700' src='https://user-images.githubusercontent.com/74038190/195027164-30e36ac4-4707-49b4-81bd-beeea4009e1f.png' alt="Circuit_paid_illustrations" /></a> | [Circuit](https://growwwkit.com/illustrations/circuit/)  <br><br> 💰 Paid  <br><br>Format <br> • Ai<br> • SVG<br> • PNG<br> • PDF<br><br> ✌️Author <br> Growww |
 | <a href="https://www.ls.graphics/products/clusck-2-0-illustration-kit"><img width='700' src='https://user-images.githubusercontent.com/74038190/228626417-4afe9738-262b-4066-865e-f44a06e83d4f.png' alt='Clusck2.0_paid_illustrations'/></a> | [Clusck 2.0](https://www.ls.graphics/products/clusck-2-0-illustration-kit)  <br><br> 💰 Paid  <br><br>Format <br> • Sketch<br> • Adobe Illustrator<br> • Adobe Xd<br> • Figma<br> • SVG<br>• Affinity<br>• PNG<br><br> ✌️Author <br> Ls Graphics |
