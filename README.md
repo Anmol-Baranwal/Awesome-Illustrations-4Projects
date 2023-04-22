@@ -158,6 +158,7 @@ Be a part of the movement to unleash creativity by leaving a [review](https://ww
 
   - [💰 Paid](#-paid-)
     
+    - [3D Bubbly Tech & UI Illustrations](https://www.drawkit.com/product/tech-3d-illustrations)
     - [3D Characters: Work and Life](https://www.drawkit.com/product/3d-nft-animated-pack)
     - [3D Education & e-Learning Illustrations](https://www.drawkit.com/product/3d-education-e-learning-illustrations)
     - [3D Social Media Icons](https://www.drawkit.com/product/3d-social-media-icons)
@@ -383,6 +384,7 @@ Be a part of the movement to unleash creativity by leaving a [review](https://ww
 
 |Showcase | Description |
 | ------- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://www.drawkit.com/product/tech-3d-illustrations"><img width='700' src='https://user-images.githubusercontent.com/74038190/233043127-324e87e3-f482-4622-8eec-81ee1acc9d61.png' alt="3D_Bubbly_Tech_and_UI_paid_illustrations" /></a> | [3D Bubbly Tech & UI Illustrations](https://www.drawkit.com/product/tech-3d-illustrations)  <br><br> 💰 Paid  <br><br>Format <br> • PNG<br><br> ✌️Author <br> DrawKit |
 | <a href="https://www.drawkit.com/product/3d-nft-animated-pack"><img width='700' src='https://user-images.githubusercontent.com/74038190/233041037-cdad7479-988c-4c87-94f3-ada6a0d08fd0.png' alt="3D_Characters_paid_illustrations" /></a> | [3D Characters: Work and Life](https://www.drawkit.com/product/3d-nft-animated-pack)  <br><br> 💰 Paid  <br><br>Format <br> • PNG<br> • Lottie<br><br> ✌️Author <br> DrawKit |
 | <a href="https://www.drawkit.com/product/3d-education-e-learning-illustrations"><img width='700' src='https://user-images.githubusercontent.com/74038190/233038497-578f899a-29ed-4306-bfa2-b0db1f372d54.png' alt="3D_Education_and_e-Learning_Illustrations_paid_illustrations" /></a> | [3D Education & e-Learning Illustrations](https://www.drawkit.com/product/3d-education-e-learning-illustrations)  <br><br> 💰 Paid  <br><br>Format <br> • PNG<br><br> ✌️Author <br> DrawKit |
 | <a href="https://www.drawkit.com/product/3d-social-media-icons"><img width='700' src='https://user-images.githubusercontent.com/74038190/233037050-402c9f1f-bb26-47cc-9d60-b656ab5cebcf.png' alt="3D_Social_Media_paid_icons" /></a> | [3D Social Media Icons](https://www.drawkit.com/product/3d-social-media-icons)  <br><br> 💰 Paid  <br><br>Format <br> • Figma<br> • PNG<br><br> ✌️Author <br> DrawKit |
