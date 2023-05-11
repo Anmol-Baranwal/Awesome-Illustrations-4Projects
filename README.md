@@ -162,6 +162,7 @@ Be a part of the movement to unleash creativity by leaving a [review](https://ww
 
   - [💰 Paid](#-paid-)
     
+    - [250 Essential Icons](https://eleken.gumroad.com/l/cGEz)
     - [3D Bubbly Tech & UI Illustrations](https://www.drawkit.com/product/tech-3d-illustrations)
     - [3D Cryptocurrency Illustrations](https://www.drawkit.com/product/3d-crypto-illustrations)
     - [3D Digital Marketing Illustrations](https://www.drawkit.com/product/3d-digital-marketing-illustrations)
@@ -402,6 +403,7 @@ Be a part of the movement to unleash creativity by leaving a [review](https://ww
 
 |Showcase | Description |
 | ------- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://eleken.gumroad.com/l/cGEz"><img width='700' src='https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/assets/74038190/2b26634d-c3c0-4b21-a371-4c8d8a59e7ce' alt="250_Essential_paid_icons" /></a> | [250 Essential Icons](https://eleken.gumroad.com/l/cGEz)  <br><br> 💰 Paid  <br><br>Format <br> • Sketch<br> • AI<br> • SVG<br> • EPS<br> • Sketch<br> • PSD<br><br> ✌️Author <br> Eleken |
 | <a href="https://www.drawkit.com/product/tech-3d-illustrations"><img width='700' src='https://user-images.githubusercontent.com/74038190/233043127-324e87e3-f482-4622-8eec-81ee1acc9d61.png' alt="3D_Bubbly_Tech_and_UI_paid_illustrations" /></a> | [3D Bubbly Tech & UI Illustrations](https://www.drawkit.com/product/tech-3d-illustrations)  <br><br> 💰 Paid  <br><br>Format <br> • PNG<br><br> ✌️Author <br> DrawKit |
 | <a href="https://www.drawkit.com/product/3d-crypto-illustrations"><img width='700' src='https://user-images.githubusercontent.com/74038190/233044281-d8a5c207-8642-48fe-a265-3faf9484a3b3.png' alt="3D_Cryptocurrency_paid_illustrations" /></a> | [3D Cryptocurrency Illustrations](https://www.drawkit.com/product/3d-crypto-illustrations)  <br><br> 💰 Paid  <br><br>Format <br> • PNG<br><br> ✌️Author <br> DrawKit |
 | <a href="https://www.drawkit.com/product/3d-digital-marketing-illustrations"><img width='700' src='https://user-images.githubusercontent.com/74038190/233042621-28770e65-8d58-4a74-bd51-4a1bed739f5c.png' alt="3D_Digital_Marketing_paid_illustrations" /></a> | [3D Digital Marketing Illustrations](https://www.drawkit.com/product/3d-digital-marketing-illustrations)  <br><br> 💰 Paid  <br><br>Format <br> • PNG<br><br> ✌️Author <br> DrawKit |
